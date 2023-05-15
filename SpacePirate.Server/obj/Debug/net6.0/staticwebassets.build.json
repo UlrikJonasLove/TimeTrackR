@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7NIMh48uOq5XXTtzrdQy7jhCNrZcddw5P59Q8B+NqU=",
+  "Source": "SpacePirate.Server",
+  "BasePath": "_content/SpacePirate.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

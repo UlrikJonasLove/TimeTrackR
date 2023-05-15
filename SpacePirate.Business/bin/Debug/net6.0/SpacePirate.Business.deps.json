@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SpacePirate.Business/1.0.0": {
+        "dependencies": {
+          "SpacePirate.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "SpacePirate.Business.dll": {}
+        }
+      },
+      "SpacePirate.DataAccess/1.0.0": {
+        "dependencies": {
+          "SpacePirate.Models": "1.0.0"
+        },
+        "runtime": {
+          "SpacePirate.DataAccess.dll": {}
+        }
+      },
+      "SpacePirate.Models/1.0.0": {
+        "runtime": {
+          "SpacePirate.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpacePirate.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpacePirate.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpacePirate.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SpacePirate.Server.props" />
+</Project>
